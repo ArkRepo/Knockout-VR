@@ -1314,12 +1314,12 @@ GameObject:
   - component: {fileID: 890526416}
   - component: {fileID: 890526415}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Debugging Player
   m_TagString: Hands
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!143 &890526415
 CharacterController:
   m_ObjectHideFlags: 0
