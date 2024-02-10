@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fb2ad6568e4fdf14a841d682519aff36
+  - enabled: 1
+    path: Assets/Scenes/Knockout VR.unity
+    guid: 2b4a2c9f40f22fa47a970eec8a997930
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 49bbe65ff25d7eb43a003bd2207ce228, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 142024fede8d5eb4f8e0ecfa38b63e58, type: 2}
